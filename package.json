@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ketanpkolte/MERN-elcass.git"
   },
-  "homepage": "",
+  "homepage": "https://github.com/ketanpkolte/MERN-elcass.git",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
